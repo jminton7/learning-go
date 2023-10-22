@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import "log"
 
 func main() {
-	fmt.Println("Hello, world.")
+	names := []string{"one", "seven", "fish", "cat"}
+
+	log.Println((names))
 }
