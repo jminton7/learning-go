@@ -1,0 +1,12 @@
+{
+  
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.compositeLiteralFields": true,
+    "gopls": {
+      "ui.semanticTokens": true
+    },
+    "editor.semanticTokenColorCustomizations": {
+      "enabled": true
+  }
+    
+}
